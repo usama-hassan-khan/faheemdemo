@@ -17,9 +17,9 @@ const mix = require('laravel-mix');
     mix.scripts([
         'node_modules/jquery/dist/jquery.min.js',
         
-        'resources/assets/js/app.js',
+        
         'node_modules/bootstrap/dist/js/bootstrap.bundle.min.js',
-
+        'resources/assets/js/header.js',
     
         ], 
 

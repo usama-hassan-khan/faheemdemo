@@ -8,6 +8,10 @@ h1 {
   font-size: 4rem;
 }
 
+li.nav-item.dropdown.show:hover ul {
+  display: block !important;
+}
+
 .main-header .start-header {
   opacity: 1;
   transform: translateY(0);

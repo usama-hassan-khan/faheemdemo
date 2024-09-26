@@ -1,7 +1,9 @@
 h1{
     font-size: 4rem;
 }
-
+li.nav-item.dropdown.show:hover ul {
+    display: block !important;
+}
 // header start --------------------------
 .main-header {
     .start-header {
